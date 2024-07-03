@@ -1,0 +1,152 @@
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\appsettings.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.exe
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.deps.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.runtimeconfig.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.pdb
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Azure.Core.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Azure.Identity.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Humanizer.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.CodeDom.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.csproj.AssemblyReference.cache
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.AssemblyInfoInputs.cache
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.AssemblyInfo.cs
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.csproj.CoreCompileInputs.cache
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.CodePulseAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulseAPI.props
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulseAPI.props
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulseAPI.props
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\scopedcss\bundle\CodePulseAPI.styles.css
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.csproj.CopyComplete
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\refint\CodePulseAPI.dll
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.pdb
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.genruntimeconfig.cache
+F:\Angular Projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\ref\CodePulseAPI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\appsettings.Development.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\appsettings.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.exe
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.deps.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.runtimeconfig.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\CodePulseAPI.pdb
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Azure.Core.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Azure.Identity.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Humanizer.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.CodeDom.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Memory.Data.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.csproj.AssemblyReference.cache
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.AssemblyInfoInputs.cache
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.AssemblyInfo.cs
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.csproj.CoreCompileInputs.cache
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.build.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.development.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.CodePulseAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.CodePulseAPI.props
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CodePulseAPI.props
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CodePulseAPI.props
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\staticwebassets.pack.json
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\scopedcss\bundle\CodePulseAPI.styles.css
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePuls.B9785FF0.Up2Date
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\refint\CodePulseAPI.dll
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.pdb
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\CodePulseAPI.genruntimeconfig.cache
+G:\AngularDotNet\angular_dotnet_projects\CodePulseAPI\CodePulseAPI\obj\Debug\net7.0\ref\CodePulseAPI.dll
